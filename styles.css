@@ -1,0 +1,30 @@
+/* add your CSS here */
+#content-body {
+	width: 300px;
+	border: 1px solid lightgray;
+	padding: 10px;
+}
+
+#image {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#fact {
+	font-style: italic;
+}
+
+.information {
+	border: 1px solid lightgray;
+	padding: 10px;
+}
+
+.list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.label {
+	font-weight: bold;
+}
